@@ -1,4 +1,4 @@
-public class Constants {
+public class Constant {
 
     /**
      * @param args the command line arguments
